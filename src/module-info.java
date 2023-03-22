@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kagan
+ *
+ */
+module baslangic {
+}
